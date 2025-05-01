@@ -4,3 +4,4 @@ A - https://colab.research.google.com/drive/1AFCkCsyjgzD_QwHsZyzgeApeYMKDDCnW?us
 B - https://colab.research.google.com/drive/1Eqw2X6jitOVbPSn6OXGfxe4_oeAUw1Rs?usp=sharing
 
 youtube link:
+https://youtu.be/ZjxlvovJOBU
